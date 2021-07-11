@@ -10,6 +10,19 @@
 - Quem sabe no futuro faço cursinho online pra incentivar a nova geração :computer:	
 - Gosto de Fuçar programas tipo VSCode, illustrator, Photoshop :keyboard:	
 - Linguagens que gosto é JVS, HTML e Css :arrow_up:	
+
+### Redes sociais
+<a href="https://www.linkedin.com/in/cleber-querino-dos-santos-745942109/" target _blank>
+  <img align="center" alt="cleber linkedin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;"</a>
+  
+  <a href="https://www.facebook.com/cleber.urameshi.87/" target _blank>
+  <img align="center" alt="cleber linkedin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width:100%;"</a>
+    
+ 
+### Minhas skills
+
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40" style="max-width:100%";></img>
+      
 <!--
 **Thasyz/Thasyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
