@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thasyz&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thasyz&layout=compact&theme=synthwave)](https://github.com/Thasyz/github-readme-stats)
-    
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thasyz&theme=synthwave&hide_border=true&fire=EE0EC7&background=1A0505)](https://git.io/streak-stats)  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thasyz&layout=compact&theme=synthwave)](https://github.com/Thasyz/github-readme-stats)
+
 
 
 
