@@ -25,9 +25,18 @@
   <img align="center" alt="cleber linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width:100%;"</a>
     
  
-### Minhas skills
+### Minhas skills de estudos
 
-
+<p align="left"> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Js" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/br/products/illustrator.html?sdid=KQPNY&mv=search&ef_id=Cj0KCQjwraqHBhDsARIsAKuGZeG9TOoMy4J8k1QdHbA4yXx--RTJsJmqpEOvkWISjkPvaumJzcU3UjEaAiGnEALw_wcB:G:s&s_kwcid=AL!3085!3!442396626644!e!!g!!illustrator!188190582!10039578942&gclid=Cj0KCQjwraqHBhDsARIsAKuGZeG9TOoMy4J8k1QdHbA4yXx--RTJsJmqpEOvkWISjkPvaumJzcU3UjEaAiGnEALw_wcB" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/> </a> </p>
       
 <!--
 **Thasyz/Thasyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
