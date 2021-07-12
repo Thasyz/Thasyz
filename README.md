@@ -1,6 +1,7 @@
 
 
 ### Ola mundo 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AE13C8&lines=Estou+voltando+em+breve!;Aguarde!+Vou+Codar+bastante+coisa;Desafios+quero+superar)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=Thasyz&color=ff69b4)
 
 ## Sou cleber Querino
