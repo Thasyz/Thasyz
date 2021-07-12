@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AE13C8&lines=Estou+voltando+em+breve!;Aguarde!+Vou+Codar+bastante+coisa;Desafios+quero+superar)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=Thasyz&color=ff69b4)
 
-## Sou cleber Querino
+### Sou cleber Querino
 - 34 anos :heartbeat:
 - Estudante front-end :desktop_computer:	
 - Vivo em São Paulo Capital :house:	:earth_americas:
@@ -14,7 +14,8 @@
 - Quem sabe no futuro faço cursinho online pra incentivar a nova geração :computer:	
 - Gosto de Fuçar programas tipo VSCode, illustrator, Photoshop :keyboard:	
 - Linguagens que gosto é JVS, HTML e Css :arrow_up:	
-- 
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thasyz&theme=discord&column=3&margin-w=15&margin-h=15)](https://github.com/Thasyz/github-profile-trophy)
 
 ### Redes sociais
