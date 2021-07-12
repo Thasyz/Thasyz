@@ -1,6 +1,7 @@
 
 
 ### Ola mundo 👋
+![](https://komarev.com/ghpvc/?username=Thasyz&color=ff69b4)
 
 ## Sou cleber Querino
 - 34 anos :heartbeat:
@@ -12,6 +13,8 @@
 - Quem sabe no futuro faço cursinho online pra incentivar a nova geração :computer:	
 - Gosto de Fuçar programas tipo VSCode, illustrator, Photoshop :keyboard:	
 - Linguagens que gosto é JVS, HTML e Css :arrow_up:	
+- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thasyz&theme=discord&column=3&margin-w=15&margin-h=15)](https://github.com/Thasyz/github-profile-trophy)
 
 ### Redes sociais
 <a href="https://www.linkedin.com/in/cleber-querino-dos-santos-745942109/" target _blank>
@@ -30,6 +33,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -41,6 +45,8 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thasyz&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thasyz&layout=compact&theme=synthwave)](https://github.com/Thasyz/github-readme-stats)
+    
+
 
 
 
