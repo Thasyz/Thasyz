@@ -5,9 +5,9 @@
 ![](https://komarev.com/ghpvc/?username=Thasyz&color=ff69b4)
 
 ### Sou cleber Querino
-- 34 anos :heartbeat:
+- 35 anos :heartbeat:
 - Estudante front-end :desktop_computer:	
-- Vivo em São Paulo Capital :house:	:earth_americas:
+- Vivo em São Paulo Capital ou no interior em Lavinia :house:	:earth_americas:
 - Faço cursinho On line :wink:
 - Meu Github ta parado pois estou sem notebook, mas volto em breve com projetos bacanas :money_mouth_face:
 - Faço Algumas lives de :video_game:	
