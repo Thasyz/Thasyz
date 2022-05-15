@@ -1,7 +1,7 @@
 
 
 ### Ola mundo 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AE13C8&lines=Estou+voltando+em+breve!;Aguarde!+Vou+Codar+bastante+coisa;Desafios+quero+superar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AE13C8&lines=Voltei+agora!+Aguarde!;Que+vou;Codar+bastante+coisa;Desafios+quero+superar)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=Thasyz&color=ff69b4)
 
 ### Sou cleber Querino
@@ -9,7 +9,7 @@
 - Estudante front-end :desktop_computer:	
 - Vivo em São Paulo Capital ou no interior em Lavinia :house:	:earth_americas:
 - Faço cursinho On line :wink:
-- Meu Github ta parado pois estou sem notebook, mas volto em breve com projetos bacanas :money_mouth_face:
+- Meu Github testou alimentando até acababar a faculdade de ADS :money_mouth_face:
 - Faço Algumas lives de :video_game:	
 - Quem sabe no futuro faço cursinho online pra incentivar a nova geração :computer:	
 - Gosto de Fuçar programas tipo VSCode, illustrator, Photoshop :keyboard:	
