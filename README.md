@@ -4,6 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AE13C8&lines=Voltei+agora!+Aguarde!;Que+vou;Codar+bastante+coisa;Desafios+quero+superar)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=Thasyz&color=ff69b4)
 
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})](pikachudoom@gmail.com) ![telegram](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
+[![Whatsapp](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+
 ### Sou cleber Querino
 - 35 anos :heartbeat:
 - Estudante front-end :desktop_computer:	
